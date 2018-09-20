@@ -1,0 +1,18 @@
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'quiz_app/style.css' %}">
+<link rel="stylesheet" href="{% static 'quiz_app/bootstrap.min.css' %}">
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>quiz</title>
+  </head>
+  <body>
+    <div class="container">
+    <div class="jumbotron">
+      <h1>Your answer is correct</h1>
+      <p><a class="btn btn-primary btn-lg" href="{% url 'quiz_app:next' %}" role="button">Go Back</a></p>
+  </body>
+</html>

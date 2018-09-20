@@ -1,0 +1,10 @@
+li {
+  font-size: 31px;
+}
+
+
+body {
+  background-image: url("images/00605_snowscape_2560x1600.jpg");
+  background-size: cover;
+  background-position: center;
+}

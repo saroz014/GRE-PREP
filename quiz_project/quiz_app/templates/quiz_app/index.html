@@ -1,6 +1,6 @@
 {% load static %}
 
-<link rel="stylesheet" href="{% static 'quiz_app/style.css' %}">
+<link rel="stylesheet" href="{% static 'quiz_app/styles.css' %}">
 <link rel="stylesheet" href="{% static 'quiz_app/bootstrap.min.css' %}">
 
 <!DOCTYPE html>
@@ -17,6 +17,7 @@
     <h1>Hello World!</h1>
     <h3>This is my first quiz app!</h3>
     <p><a class="btn btn-primary btn-lg" href="{% url 'quiz_app:next' %}" role="button">Let's Start</a></p>
+    <p><a class="btn btn-primary btn-lg" href="{% url 'quiz_app:add_question' %}" role="button">Add Question</a></p>
     <p><a class="btn btn-primary btn-lg" href="{% url 'admin:index' %}" role="button">Go to Admin</a></p>
   </div>
   </div>

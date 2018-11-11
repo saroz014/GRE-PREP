@@ -7,7 +7,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>quiz</title>
+    <title>Add Question</title>
   </head>
   <body>
     <nav class="navbar navbar-default navbar-fixed-top">
@@ -29,30 +29,14 @@
 
     </nav>
 
-    {% if latest_question_list %}
+    <div class="container-fluid">
+    <h1>Add Question Here</h1>
+    <form method="POST">
+        {{ que_form.as_p }}
+        {% csrf_token %}
+      <input class="btn btn-success btn-lg" type="submit" value="Submit">
 
-<ol>
-  <div class="container">
-      {% for question in latest_question_list %}
-
-      <h3><li>{{ question.question_text }}</li></h3>
-
-      <form action="{% url 'quiz_app:check' question.id %}" method="post">
-      {% csrf_token %}
-      {% for answer in question.answer_set.all %}
-      <input class="btn btn-success btn-lg" type="submit" name="answer" value="{{ answer.answer_text }}">
-      {% endfor %}
-
-      </form>
-
-      {% endfor %}
-
-    {% else %}
-    <p>No Questions Available!</p>
-    {% endif %}
-
-  </div>
-</ol>
-
+    </form>
+    </div>
   </body>
 </html>

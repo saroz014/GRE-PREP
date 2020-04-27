@@ -1,70 +1,21 @@
-from django.shortcuts import render, get_object_or_404
-from django.urls import reverse
-from django.http import HttpResponseRedirect
+import json
+
+from django.http import JsonResponse
+from django.views.generic import ListView
 from quiz_app.models import *
-from .forms import QuestionForm, AnswerForm
 
-# Create your views here.
 
-# This view displays the index page
-def index(request):
-    return render(request, 'quiz_app/index.html')
+class QuizListView(ListView):
+    queryset = Question.objects.order_by('id')
+    paginate_by = 100
 
-# This view displays the main quiz page
-def next(request):
-    latest_question_list = Question.objects.order_by('pub_date')[:]
-    context = {'latest_question_list': latest_question_list}
-    return render(request, 'quiz_app/next.html', context)
 
-# This view checks whether the selected answer is correct by comparing the
-# selected answer with corresponding correct answer
-def check(request, question_id):
-    selected_choice = request.POST['answer']
-    correct_choice = CorrectAnswer.objects.get(question=question_id)
-    selected_choice = str(selected_choice)
-    correct_choice = str(correct_choice)
-
-    if selected_choice == correct_choice:
-        return render(request, 'quiz_app/correct.html')
-
+def check(request):
+    data = json.loads(request.body.decode('utf-8'))
+    if CorrectAnswer.objects.filter(question_id=data['question_id'], answer_id=data['answer_id']).exists():
+        response = {'answer_id': data['answer_id']}
     else:
-        return render(request, 'quiz_app/incorrect.html')
+        answer_id = Question.objects.get(id=data['question_id']).correct_answer.answer.id
+        response = {'answer_id': answer_id}
+    return JsonResponse(response)
 
-# Generates the Question Form and stores the provided question to the database
-def add_question(request):
-    if request.method == "POST":
-        que_form = QuestionForm(request.POST)
-        if que_form.is_valid():
-            que_form.save()
-            question = Question.objects.order_by('-pub_date')[0]
-            return HttpResponseRedirect(reverse('quiz_app:add_answers', args=(question.id,)))
-    else:
-        que_form = QuestionForm()
-    return render(request, 'quiz_app/add_question.html', {'que_form': que_form})
-
-# Generates the Answer Form and stores the provided answers to the database
-def add_answers(request, id):
-    question = get_object_or_404(Question, id=id)
-    if request.method == "POST":
-        ans_form = AnswerForm(request.POST)
-        if ans_form.is_valid():
-            answer = ans_form.save(commit=False)
-            for k in range(4):
-                answer[k].question = question
-                answer[k].save()
-            return render(request, 'quiz_app/add_correct.html', {'question': question})
-    else:
-        ans_form = AnswerForm()
-    return render(request, 'quiz_app/add_answers.html', {'ans_form': ans_form, 'question': question})
-
-# Generates Answers to select the correct answer from and stores the selected answer to the database
-def add_correct(request, id):
-    question = get_object_or_404(Question, id=id)
-    if request.method == "POST":
-        correct_choice = request.POST['correct']
-        set = CorrectAnswer(question=question, correct_text=correct_choice)
-        set.save()
-        return render(request, 'quiz_app/index.html')
-
-    else:
-        return render(request, 'quiz_app/add_correct.html', {'question': question})

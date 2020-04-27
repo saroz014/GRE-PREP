@@ -1,9 +1,9 @@
 from django.contrib import admin
-from django.urls import path, include
-from quiz_app.views import index
+from django.urls import path
+from quiz_app.views import *
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', index, name='index'),
-    path('quiz_app/', include('quiz_app.urls'))
+    path('', QuizListView.as_view(), name='quiz-list'),
+    path('check/', check, name='check-answer'),
 ]

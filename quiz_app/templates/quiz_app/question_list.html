@@ -1,0 +1,39 @@
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'quiz_app/styles.css' %}">
+<script src="{% static "quiz_app/meta.js" %}"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>quiz</title>
+  </head>
+  <body>
+  <p id="csrf" hidden>{{ csrf_token }}</p>
+    {% if object_list %}
+<ol>
+  <div class="container">
+      {% for question in object_list %}
+        <span id="question_{{ question.id }}">
+      <h3><li>{{ question.question_text }}</li></h3>
+
+          <p>
+      {% for answer in question.answers.all %}
+      <input class="btn btn-primary btn-lg" type="submit" id="answer_{{ answer.id }}" value="{{ answer.answer_text }}" onclick="answerSelected(this)">
+      {% endfor %}
+          </p>
+
+        </span>
+      {% endfor %}
+
+    {% else %}
+    <p>No Questions Available!</p>
+    {% endif %}
+
+  </div>
+</ol>
+
+  </body>
+</html>

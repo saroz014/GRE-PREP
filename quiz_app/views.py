@@ -1,7 +1,7 @@
 from django.shortcuts import render, get_object_or_404
 from django.urls import reverse
 from django.http import HttpResponseRedirect
-from .models import Question, Answer, Correct
+from quiz_app.models import *
 from .forms import QuestionForm, AnswerForm
 
 # Create your views here.
@@ -20,7 +20,7 @@ def next(request):
 # selected answer with corresponding correct answer
 def check(request, question_id):
     selected_choice = request.POST['answer']
-    correct_choice = Correct.objects.get(question=question_id)
+    correct_choice = CorrectAnswer.objects.get(question=question_id)
     selected_choice = str(selected_choice)
     correct_choice = str(correct_choice)
 
@@ -59,10 +59,10 @@ def add_answers(request, id):
 
 # Generates Answers to select the correct answer from and stores the selected answer to the database
 def add_correct(request, id):
+    question = get_object_or_404(Question, id=id)
     if request.method == "POST":
-        question = get_object_or_404(Question, id=id)
         correct_choice = request.POST['correct']
-        set = Correct(question=question, correct_text=correct_choice)
+        set = CorrectAnswer(question=question, correct_text=correct_choice)
         set.save()
         return render(request, 'quiz_app/index.html')
 

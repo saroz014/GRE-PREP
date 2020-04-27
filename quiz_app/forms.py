@@ -1,6 +1,6 @@
 from django import forms
 from django.forms import modelformset_factory, BaseModelFormSet
-from .models import Question, Answer, Correct
+from quiz_app.models import *
 
 # Form to get the Question
 class QuestionForm(forms.ModelForm):

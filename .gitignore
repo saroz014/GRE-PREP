@@ -142,7 +142,6 @@ dmypy.json
 .idea/
 .vscode/
 data/
-static/
 staticfiles/
 TO_DO.txt
 log

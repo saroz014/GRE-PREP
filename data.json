@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which word means the same as erroneous?",
+    "answers": {
+      "a": "digressive",
+      "b": "confused",
+      "c": "impenetrable",
+      "d": "incorrect"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as grotesque?",
+    "answers": {
+      "a": "extreme",
+      "b": "frenzied",
+      "c": "hideous",
+      "d": "typical"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as garbled?",
+    "answers": {
+      "a": "lucid",
+      "b": "unintelligible",
+      "c": "devoured",
+      "d": "outrageous"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as expose?",
+    "answers": {
+      "a": "relate",
+      "b": "develop",
+      "c": "reveal",
+      "d": "pretend"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as coerce?",
+    "answers": {
+      "a": "force",
+      "b": "permit",
+      "c": "waste",
+      "d": "deny"
+    },
+    "correct_answer": "a"
+  }
+]

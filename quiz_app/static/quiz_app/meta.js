@@ -1,6 +1,5 @@
 // extracts data from html
 async function answerSelected(e) {
-    // e.classList.remove("btn-primary");
         const answer_id = e.id.split('_')[1];
         const question_id = e.parentNode.parentNode.id.split('_')[1];
 

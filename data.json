@@ -48,5 +48,955 @@
       "d": "deny"
     },
     "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as abrupt?",
+    "answers": {
+      "a": "interrupt",
+      "b": "sudden",
+      "c": "extended",
+      "d": "corrupt"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as apathy?",
+    "answers": {
+      "a": "hostility",
+      "b": "depression",
+      "c": "indifference",
+      "d": "concern"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as despair?",
+    "answers": {
+      "a": "mourning",
+      "b": "disregard",
+      "c": "hopelessness",
+      "d": "loneliness"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as contemptuous?",
+    "answers": {
+      "a": "respectful",
+      "b": "unique",
+      "c": "scornful",
+      "d": "insecure"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as tote?",
+    "answers": {
+      "a": "acquire",
+      "b": "carry",
+      "c": "tremble",
+      "d": "abandon"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as distinct?",
+    "answers": {
+      "a": "satisfied",
+      "b": "imprecise",
+      "c": "uneasy",
+      "d": "separate"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as flagrant?",
+    "answers": {
+      "a": "secret",
+      "b": "worthless",
+      "c": "noble",
+      "d": "glaring"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as oration?",
+    "answers": {
+      "a": "nuisance",
+      "b": "independence",
+      "c": "address",
+      "d": "length"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as libel?",
+    "answers": {
+      "a": "description",
+      "b": "praise",
+      "c": "destiny",
+      "d": "slander"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as philanthropy?",
+    "answers": {
+      "a": "selfishness",
+      "b": "fascination",
+      "c": "disrespect",
+      "d": "charity"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as proximity?",
+    "answers": {
+      "a": "distance",
+      "b": "agreement",
+      "c": "nearness",
+      "d": "intelligence"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as negligible?",
+    "answers": {
+      "a": "insignificant",
+      "b": "delicate",
+      "c": "meaningful",
+      "d": "illegible"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as vigilant?",
+    "answers": {
+      "a": "nonchalant",
+      "b": "watchful",
+      "c": "righteous",
+      "d": "strenuous"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as astute?",
+    "answers": {
+      "a": "perceptive",
+      "b": "inattentive",
+      "c": "stubborn",
+      "d": "elegant"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as collaborate?",
+    "answers": {
+      "a": "cooperate",
+      "b": "convince",
+      "c": "entice",
+      "d": "elaborate"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as insipid?",
+    "answers": {
+      "a": "overbearing",
+      "b": "tasteless",
+      "c": "exhilarating",
+      "d": "elaborate"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as navigate?",
+    "answers": {
+      "a": "search",
+      "b": "decide",
+      "c": "steer",
+      "d": "assist"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as tailor?",
+    "answers": {
+      "a": "measure",
+      "b": "construct",
+      "c": "launder",
+      "d": "alter"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as yield?",
+    "answers": {
+      "a": "merge",
+      "b": "relinquish",
+      "c": "destroy",
+      "d": "hinder"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as eternal?",
+    "answers": {
+      "a": "timeless",
+      "b": "heavenly",
+      "c": "loving",
+      "d": "wealthy"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as stow?",
+    "answers": {
+      "a": "pack",
+      "b": "curtsy",
+      "c": "fool",
+      "d": "trample"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as intimate?",
+    "answers": {
+      "a": "frightening",
+      "b": "curious",
+      "c": "private",
+      "d": "characteristic"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as consider?",
+    "answers": {
+      "a": "promote",
+      "b": "require",
+      "c": "adjust",
+      "d": "ponder"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as humidify?",
+    "answers": {
+      "a": "moisten",
+      "b": "warm",
+      "c": "gather",
+      "d": "spray"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as arouse?",
+    "answers": {
+      "a": "inform",
+      "b": "abuse",
+      "c": "waken",
+      "d": "deceive"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as harass?",
+    "answers": {
+      "a": "trick",
+      "b": "confuse",
+      "c": "betray",
+      "d": "pester"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as fortified?",
+    "answers": {
+      "a": "reinforced",
+      "b": "distorted",
+      "c": "disputed",
+      "d": "developed"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as delegate?",
+    "answers": {
+      "a": "analyze",
+      "b": "respect",
+      "c": "criticize",
+      "d": "assign"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as accountable?",
+    "answers": {
+      "a": "applauded",
+      "b": "compensated",
+      "c": "responsible",
+      "d": "approached"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as philosophy?",
+    "answers": {
+      "a": "bias",
+      "b": "principles",
+      "c": "evidence",
+      "d": "process"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as custom?",
+    "answers": {
+      "a": "purpose",
+      "b": "habit",
+      "c": "buyer",
+      "d": "role"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as harbor?",
+    "answers": {
+      "a": "halter",
+      "b": "statement",
+      "c": "refuge",
+      "d": "garment"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as muse?",
+    "answers": {
+      "a": "tune",
+      "b": "ponder",
+      "c": "encourage",
+      "d": "read"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as vessel?",
+    "answers": {
+      "a": "container",
+      "b": "furniture",
+      "c": "garment",
+      "d": "branch"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as dispute?",
+    "answers": {
+      "a": "debate",
+      "b": "release",
+      "c": "divide",
+      "d": "redeem"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as site?",
+    "answers": {
+      "a": "location",
+      "b": "formation",
+      "c": "speech",
+      "d": "view"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as compensate?",
+    "answers": {
+      "a": "help",
+      "b": "challenge",
+      "c": "defeat",
+      "d": "pay"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as journal?",
+    "answers": {
+      "a": "trip",
+      "b": "receipt",
+      "c": "diary",
+      "d": "list"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as opportunity?",
+    "answers": {
+      "a": "sensitivity",
+      "b": "arrogance",
+      "c": "chance",
+      "d": "reference"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as invent?",
+    "answers": {
+      "a": "insert",
+      "b": "discover",
+      "c": "apply",
+      "d": "allow"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as sphere?",
+    "answers": {
+      "a": "air",
+      "b": "spread",
+      "c": "globe",
+      "d": "enclosure"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as refine?",
+    "answers": {
+      "a": "condone",
+      "b": "provide",
+      "c": "change",
+      "d": "purify"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as pledge?",
+    "answers": {
+      "a": "picture",
+      "b": "idea",
+      "c": "quote",
+      "d": "promise"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as gangly?",
+    "answers": {
+      "a": "illegally",
+      "b": "closely",
+      "c": "ugly",
+      "d": "lanky"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as sage?",
+    "answers": {
+      "a": "wise",
+      "b": "obnoxious",
+      "c": "conceited",
+      "d": "heartless"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as dormant?",
+    "answers": {
+      "a": "hidden",
+      "b": "slumbering",
+      "c": "rigid",
+      "d": "misplaced"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as banish?",
+    "answers": {
+      "a": "exile",
+      "b": "decorate",
+      "c": "succumb",
+      "d": "encourage"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as croon?",
+    "answers": {
+      "a": "swim",
+      "b": "sing",
+      "c": "stroke",
+      "d": "yell"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as hostel?",
+    "answers": {
+      "a": "turnstile",
+      "b": "cot",
+      "c": "trek",
+      "d": "inn"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as mesa?",
+    "answers": {
+      "a": "brain",
+      "b": "plateau",
+      "c": "wagon",
+      "d": "dwelling"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as ado?",
+    "answers": {
+      "a": "idiom",
+      "b": "punishment",
+      "c": "cost",
+      "d": "fuss"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as obscure?",
+    "answers": {
+      "a": "concealed",
+      "b": "obvious",
+      "c": "reckless",
+      "d": "subjective"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as malicious?",
+    "answers": {
+      "a": "spiteful",
+      "b": "changeable",
+      "c": "murderous",
+      "d": "dangerous"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as obsolete?",
+    "answers": {
+      "a": "current",
+      "b": "dedicated",
+      "c": "unnecessary",
+      "d": "outmoded"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as expansive?",
+    "answers": {
+      "a": "talkative",
+      "b": "relaxed",
+      "c": "humorous",
+      "d": "grateful"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as relinquish?",
+    "answers": {
+      "a": "abandon",
+      "b": "report",
+      "c": "commence",
+      "d": "abide"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as submissive?",
+    "answers": {
+      "a": "raucous",
+      "b": "obedient",
+      "c": "virtuous",
+      "d": "selfish"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as ponderous?",
+    "answers": {
+      "a": "heavy",
+      "b": "thoughtful",
+      "c": "hearty",
+      "d": "generous"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as stoical?",
+    "answers": {
+      "a": "impassive",
+      "b": "loud",
+      "c": "curious",
+      "d": "intense"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as haggard?",
+    "answers": {
+      "a": "handsome",
+      "b": "honest",
+      "c": "gaunt",
+      "d": "intense"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as enigma?",
+    "answers": {
+      "a": "laughter",
+      "b": "mystery",
+      "c": "enclosure",
+      "d": "shadow"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as jocular?",
+    "answers": {
+      "a": "lenient",
+      "b": "strict",
+      "c": "powerful",
+      "d": "jolly"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as rebuke?",
+    "answers": {
+      "a": "scold",
+      "b": "deny",
+      "c": "distract",
+      "d": "protect"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as renown?",
+    "answers": {
+      "a": "attitude",
+      "b": "fame",
+      "c": "health",
+      "d": "strength"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as robust?",
+    "answers": {
+      "a": "eager",
+      "b": "rough",
+      "c": "old-fashioned",
+      "d": "vigorous"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as mundane?",
+    "answers": {
+      "a": "proper",
+      "b": "ordinary",
+      "c": "greedy",
+      "d": "murky"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the same as remiss?",
+    "answers": {
+      "a": "recent",
+      "b": "false",
+      "c": "negligent",
+      "d": "broken"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as imminent?",
+    "answers": {
+      "a": "sturdy",
+      "b": "actual",
+      "c": "soon",
+      "d": "later"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as inordinate?",
+    "answers": {
+      "a": "excessive",
+      "b": "exclusive",
+      "c": "purpose",
+      "d": "hesitant"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as disheveled?",
+    "answers": {
+      "a": "rumpled",
+      "b": "divorced",
+      "c": "marked",
+      "d": "dedicated"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the same as disillusioned?",
+    "answers": {
+      "a": "disadvantageous",
+      "b": "distracted",
+      "c": "disenchanted",
+      "d": "disarming"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the same as query?",
+    "answers": {
+      "a": "inspect",
+      "b": "quote",
+      "c": "succeed",
+      "d": "inquire"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the same as clemency?",
+    "answers": {
+      "a": "competency",
+      "b": "certainty",
+      "c": "destiny",
+      "d": "mercy"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word is the opposite of alert?",
+    "answers": {
+      "a": "attentive",
+      "b": "inattentive",
+      "c": "careful",
+      "d": "trivial"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word is the opposite of cautious?",
+    "answers": {
+      "a": "considerate",
+      "b": "noble",
+      "c": "proper",
+      "d": "reckless"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of shameful?",
+    "answers": {
+      "a": "honorable",
+      "b": "animated",
+      "c": "fickle",
+      "d": "modest"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of vague?",
+    "answers": {
+      "a": "hazy",
+      "b": "skilled",
+      "c": "definite",
+      "d": "tender"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of vulnerable?",
+    "answers": {
+      "a": "frantic",
+      "b": "feeble",
+      "c": "secure",
+      "d": "complicated"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of distress?",
+    "answers": {
+      "a": "comfort",
+      "b": "reward",
+      "c": "trouble",
+      "d": "compromise"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of unity?",
+    "answers": {
+      "a": "discord",
+      "b": "stimulation",
+      "c": "consent",
+      "d": "neglect"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of clarify?",
+    "answers": {
+      "a": "explain",
+      "b": "dismay",
+      "c": "obscure",
+      "d": "provide"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of grant?",
+    "answers": {
+      "a": "deny",
+      "b": "consume",
+      "c": "allocate",
+      "d": "provoke"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of impartial?",
+    "answers": {
+      "a": "complete",
+      "b": "prejudiced",
+      "c": "unbiased",
+      "d": "erudite"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of prompt?",
+    "answers": {
+      "a": "punctual",
+      "b": "slack",
+      "c": "tardy",
+      "d": "regular"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word is the opposite of delay?",
+    "answers": {
+      "a": "slow",
+      "b": "hasten",
+      "c": "pause",
+      "d": "desist"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word is the opposite of soothe?",
+    "answers": {
+      "a": "increase",
+      "b": "comfort",
+      "c": "aggravate",
+      "d": "delight"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of moderate?",
+    "answers": {
+      "a": "original",
+      "b": "average",
+      "c": "final",
+      "d": "excessive"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of reveal?",
+    "answers": {
+      "a": "disclose",
+      "b": "achieve",
+      "c": "retreat",
+      "d": "conceal"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of initial?",
+    "answers": {
+      "a": "first",
+      "b": "crisis",
+      "c": "final",
+      "d": "right"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of brittle?",
+    "answers": {
+      "a": "flexible",
+      "b": "breakable",
+      "c": "grating",
+      "d": "thin"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of capable?",
+    "answers": {
+      "a": "unskilled",
+      "b": "absurd",
+      "c": "apt",
+      "d": "able"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of stray?",
+    "answers": {
+      "a": "remain",
+      "b": "inhabit",
+      "c": "wander",
+      "d": "incline"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of dainty?",
+    "answers": {
+      "a": "delicate",
+      "b": "coarse",
+      "c": "harsh",
+      "d": "delicious"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of craving?",
+    "answers": {
+      "a": "desire",
+      "b": "repudiation",
+      "c": "motive",
+      "d": "revulsion"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of ferocious?",
+    "answers": {
+      "a": "docile",
+      "b": "savage",
+      "c": "explosive",
+      "d": "noble"
+    },
+    "correct_answer": "a"
   }
 ]

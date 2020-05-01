@@ -7,7 +7,7 @@ from quiz_app.models import *
 
 class QuizListView(ListView):
     queryset = Question.objects.order_by('id')
-    paginate_by = 100
+    paginate_by = 10
 
 
 def check(request):

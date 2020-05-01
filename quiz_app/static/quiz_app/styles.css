@@ -1,14 +1,15 @@
 li {
-  font-size: 31px;
+  font-size: 20px;
 }
 
 
-body {
-  background-image: url("images/1600_106.jpg");
-  background-size: cover;
-  background-position: center;
-}
+/*body {*/
+  /*background-image: url("images/1600_106.jpg");*/
+  /*background-size: cover;*/
+  /*background-position: center;*/
+/*}*/
 
-.jpt {
-  color: white;
+.btn:focus, .btn:active {
+   outline: none !important;
+   box-shadow: none;
 }

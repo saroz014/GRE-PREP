@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="{% static 'quiz_app/styles.css' %}">
 <script src="{% static "quiz_app/meta.js" %}"></script>
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -12,12 +12,12 @@
   </head>
   <body>
   <p id="csrf" hidden>{{ csrf_token }}</p>
-    {% if object_list %}
-<ol>
-  <div class="container">
+
+  <div class="container text-center">
+  {% if object_list %}
       {% for question in object_list %}
         <span id="question_{{ question.id }}">
-      <h3><li>{{ question.question_text }}</li></h3>
+      <h3>{{ forloop.counter0|add:page_obj.start_index }}. {{ question.question_text }}</h3>
 
           <p>
       {% for answer in question.answers.all %}
@@ -32,8 +32,28 @@
     <p>No Questions Available!</p>
     {% endif %}
 
+    {% if is_paginated %}
+  <ul class="pagination">
+    {% if page_obj.has_previous %}
+      <li><a href="?page={{ page_obj.previous_page_number }}">&laquo;</a></li>
+    {% else %}
+      <li class="disabled"><span>&laquo;</span></li>
+    {% endif %}
+    {% for i in paginator.page_range %}
+      {% if page_obj.number == i %}
+        <li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span></li>
+      {% else %}
+        <li><a href="?page={{ i }}">{{ i }}</a></li>
+      {% endif %}
+    {% endfor %}
+    {% if page_obj.has_next %}
+      <li><a href="?page={{ page_obj.next_page_number }}">&raquo;</a></li>
+    {% else %}
+      <li class="disabled"><span>&raquo;</span></li>
+    {% endif %}
+  </ul>
+{% endif %}
   </div>
-</ol>
 
   </body>
 </html>

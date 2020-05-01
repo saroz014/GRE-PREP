@@ -1,12 +1,14 @@
 import json
+import random
 
+from django.db.models import Max
 from django.http import JsonResponse
 from django.views.generic import ListView
 from quiz_app.models import *
 
 
 class QuizListView(ListView):
-    queryset = Question.objects.order_by('id')
+    queryset = Question.objects.order_by('?')
     paginate_by = 10
 
 

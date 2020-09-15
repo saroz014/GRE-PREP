@@ -778,5 +778,775 @@
       "d": "mercy"
     },
     "correct_answer": "d"
+  },
+  {
+    "question": "Which word is the opposite of alert?",
+    "answers": {
+      "a": "attentive",
+      "b": "inattentive",
+      "c": "careful",
+      "d": "trivial"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word is the opposite of cautious?",
+    "answers": {
+      "a": "considerate",
+      "b": "noble",
+      "c": "proper",
+      "d": "reckless"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of shameful?",
+    "answers": {
+      "a": "honorable",
+      "b": "animated",
+      "c": "fickle",
+      "d": "modest"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of vague?",
+    "answers": {
+      "a": "hazy",
+      "b": "skilled",
+      "c": "definite",
+      "d": "tender"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of vulnerable?",
+    "answers": {
+      "a": "frantic",
+      "b": "feeble",
+      "c": "secure",
+      "d": "complicated"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of distress?",
+    "answers": {
+      "a": "comfort",
+      "b": "reward",
+      "c": "trouble",
+      "d": "compromise"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of unity?",
+    "answers": {
+      "a": "discord",
+      "b": "stimulation",
+      "c": "consent",
+      "d": "neglect"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of clarify?",
+    "answers": {
+      "a": "explain",
+      "b": "dismay",
+      "c": "obscure",
+      "d": "provide"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of grant?",
+    "answers": {
+      "a": "deny",
+      "b": "consume",
+      "c": "allocate",
+      "d": "provoke"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of impartial?",
+    "answers": {
+      "a": "complete",
+      "b": "prejudiced",
+      "c": "unbiased",
+      "d": "erudite"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of prompt?",
+    "answers": {
+      "a": "punctual",
+      "b": "slack",
+      "c": "tardy",
+      "d": "regular"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word is the opposite of delay?",
+    "answers": {
+      "a": "slow",
+      "b": "hasten",
+      "c": "pause",
+      "d": "desist"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word is the opposite of soothe?",
+    "answers": {
+      "a": "increase",
+      "b": "comfort",
+      "c": "aggravate",
+      "d": "delight"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of moderate?",
+    "answers": {
+      "a": "original",
+      "b": "average",
+      "c": "final",
+      "d": "excessive"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of reveal?",
+    "answers": {
+      "a": "disclose",
+      "b": "achieve",
+      "c": "retreat",
+      "d": "conceal"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of initial?",
+    "answers": {
+      "a": "first",
+      "b": "crisis",
+      "c": "final",
+      "d": "right"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of brittle?",
+    "answers": {
+      "a": "flexible",
+      "b": "breakable",
+      "c": "grating",
+      "d": "thin"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of capable?",
+    "answers": {
+      "a": "unskilled",
+      "b": "absurd",
+      "c": "apt",
+      "d": "able"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of stray?",
+    "answers": {
+      "a": "remain",
+      "b": "inhabit",
+      "c": "wander",
+      "d": "incline"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of dainty?",
+    "answers": {
+      "a": "delicate",
+      "b": "coarse",
+      "c": "harsh",
+      "d": "delicious"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of craving?",
+    "answers": {
+      "a": "desire",
+      "b": "repudiation",
+      "c": "motive",
+      "d": "revulsion"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of ferocious?",
+    "answers": {
+      "a": "docile",
+      "b": "savage",
+      "c": "explosive",
+      "d": "noble"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of grueling?",
+    "answers": {
+      "a": "effortless",
+      "b": "casual",
+      "c": "exhausting",
+      "d": "empty"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of forsake?",
+    "answers": {
+      "a": "admit",
+      "b": "abandon",
+      "c": "submit",
+      "d": "cherish"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word is the opposite of restrain?",
+    "answers": {
+      "a": "control",
+      "b": "liberate",
+      "c": "maintain",
+      "d": "distract"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word is the opposite of bleak?",
+    "answers": {
+      "a": "desperate",
+      "b": "dreary",
+      "c": "bright",
+      "d": "fond"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word is the opposite of unruly?",
+    "answers": {
+      "a": "controllable",
+      "b": "disorderly",
+      "c": "honest",
+      "d": "covered"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word is the opposite of solidarity?",
+    "answers": {
+      "a": "union",
+      "b": "disunity",
+      "c": "laxity",
+      "d": "rigidity"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word is the opposite of retract?",
+    "answers": {
+      "a": "assert",
+      "b": "withdraw",
+      "c": "impugn",
+      "d": "follow"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word is the opposite of concise?",
+    "answers": {
+      "a": "generous",
+      "b": "lengthy",
+      "c": "loose",
+      "d": "brief"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word is the opposite of omit?",
+    "answers": {
+      "a": "eliminate",
+      "b": "perform",
+      "c": "depart",
+      "d": "include"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of prohibit?",
+    "answers": {
+      "a": "surrender",
+      "b": "permit",
+      "c": "involve",
+      "d": "embrace"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of disclose?",
+    "answers": {
+      "a": "succeed",
+      "b": "conceal",
+      "c": "restrain",
+      "d": "possess"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of stifle?",
+    "answers": {
+      "a": "encourage",
+      "b": "familiarize",
+      "c": "deny",
+      "d": "overcome"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of belittle?",
+    "answers": {
+      "a": "arrange",
+      "b": "compliment",
+      "c": "criticize",
+      "d": "presume"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of aimless?",
+    "answers": {
+      "a": "inactive",
+      "b": "faithful",
+      "c": "purposeful",
+      "d": "impartial"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of detest?",
+    "answers": {
+      "a": "prohibit",
+      "b": "hate",
+      "c": "examine",
+      "d": "admire"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of valiant?",
+    "answers": {
+      "a": "instinctive",
+      "b": "cowardly",
+      "c": "cynical",
+      "d": "worthy"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of lenient?",
+    "answers": {
+      "a": "capable",
+      "b": "impractical",
+      "c": "merciful",
+      "d": "domineering"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of tarnish?",
+    "answers": {
+      "a": "absorb",
+      "b": "endure",
+      "c": "shine",
+      "d": "sully"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of mandatory?",
+    "answers": {
+      "a": "apparent",
+      "b": "equal",
+      "c": "optional",
+      "d": "required"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of chagrin?",
+    "answers": {
+      "a": "conviction",
+      "b": "irritation",
+      "c": "pleasure",
+      "d": "humanity"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of commence?",
+    "answers": {
+      "a": "initiate",
+      "b": "adapt",
+      "c": "harass",
+      "d": "terminate"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of conscientious?",
+    "answers": {
+      "a": "careless",
+      "b": "apologetic",
+      "c": "diligent",
+      "d": "boisterous"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of deficient?",
+    "answers": {
+      "a": "necessary",
+      "b": "adequate",
+      "c": "flawed",
+      "d": "simple"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of lucid?",
+    "answers": {
+      "a": "ordinary",
+      "b": "turbulent",
+      "c": "implausible",
+      "d": "vague"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of judicious?",
+    "answers": {
+      "a": "partial",
+      "b": "litigious",
+      "c": "imprudent",
+      "d": "unrestrained"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of dissonance?",
+    "answers": {
+      "a": "harmony",
+      "b": "carefulness",
+      "c": "specificity",
+      "d": "value"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of erudite?",
+    "answers": {
+      "a": "uneducated",
+      "b": "polite",
+      "c": "unknown",
+      "d": "agitated"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of harmony?",
+    "answers": {
+      "a": "noise",
+      "b": "brevity",
+      "c": "safety",
+      "d": "discord"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of insult?",
+    "answers": {
+      "a": "compliment",
+      "b": "contempt",
+      "c": "argument",
+      "d": "attitude"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of general?",
+    "answers": {
+      "a": "specific",
+      "b": "total",
+      "c": "insignificant",
+      "d": "substantial"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of imaginary?",
+    "answers": {
+      "a": "sober",
+      "b": "ordinary",
+      "c": "unrealistic",
+      "d": "factual"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of demolish?",
+    "answers": {
+      "a": "attend",
+      "b": "consider",
+      "c": "create",
+      "d": "stifle"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of absorb?",
+    "answers": {
+      "a": "acquire",
+      "b": "repel",
+      "c": "consume",
+      "d": "assist"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of critical?",
+    "answers": {
+      "a": "inimical",
+      "b": "judgmental",
+      "c": "massive",
+      "d": "trivial"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of infantile?",
+    "answers": {
+      "a": "despicable",
+      "b": "adolescent",
+      "c": "mature",
+      "d": "perpetual"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of retain?",
+    "answers": {
+      "a": "withhold",
+      "b": "release",
+      "c": "succumb",
+      "d": "incise"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of impulsive?",
+    "answers": {
+      "a": "secure",
+      "b": "mandatory",
+      "c": "rash",
+      "d": "cautious"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of competent?",
+    "answers": {
+      "a": "incomplete",
+      "b": "intense",
+      "c": "inept",
+      "d": "massive"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of promote?",
+    "answers": {
+      "a": "explicate",
+      "b": "downgrade",
+      "c": "concede",
+      "d": "retain"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of requirement?",
+    "answers": {
+      "a": "plan",
+      "b": "consequence",
+      "c": "option",
+      "d": "accident"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of irritate?",
+    "answers": {
+      "a": "soothe",
+      "b": "drain",
+      "c": "resist",
+      "d": "solve"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of punctual?",
+    "answers": {
+      "a": "random",
+      "b": "smooth",
+      "c": "intermittent",
+      "d": "tardy"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of virtue?",
+    "answers": {
+      "a": "reality",
+      "b": "fact",
+      "c": "vice",
+      "d": "amateur"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of fortunate?",
+    "answers": {
+      "a": "excluded",
+      "b": "hapless",
+      "c": "hardworking",
+      "d": "lucky"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of notable?",
+    "answers": {
+      "a": "oral",
+      "b": "graceful",
+      "c": "legal",
+      "d": "ordinary"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which word means the opposite of prim?",
+    "answers": {
+      "a": "outrageous",
+      "b": "last",
+      "c": "ugly",
+      "d": "cantankerous"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of prosperous?",
+    "answers": {
+      "a": "affluent",
+      "b": "destitute",
+      "c": "cowardly",
+      "d": "receptive"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of nimble?",
+    "answers": {
+      "a": "sturdy",
+      "b": "sluggish",
+      "c": "thoughtless",
+      "d": "relaxed"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of tranquil?",
+    "answers": {
+      "a": "agitated",
+      "b": "explicit",
+      "c": "sluggish",
+      "d": "composed"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of sprightly?",
+    "answers": {
+      "a": "eager",
+      "b": "lofty",
+      "c": "dull",
+      "d": "local"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of amiable?",
+    "answers": {
+      "a": "dangerous",
+      "b": "permissive",
+      "c": "aloof",
+      "d": "congenial"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of prudent?",
+    "answers": {
+      "a": "rash",
+      "b": "licentious",
+      "c": "libertine",
+      "d": "demonstrative"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which word means the opposite of scant?",
+    "answers": {
+      "a": "pellucid",
+      "b": "meager",
+      "c": "copious",
+      "d": "vocal"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which word means the opposite of steadfast?",
+    "answers": {
+      "a": "envious",
+      "b": "fickle",
+      "c": "improvident",
+      "d": "sluggish"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which word means the opposite of stringent?",
+    "answers": {
+      "a": "obese",
+      "b": "lax",
+      "c": "obtuse",
+      "d": "fluid"
+    },
+    "correct_answer": "b"
   }
 ]
